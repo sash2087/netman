@@ -1,22 +1,21 @@
 import git
 import os
 
-try:
-    local_url = "/home/netman/netman"
-    url = "https://github.com/sash2087/netman.git"
-    branch = "new"
 
-    repo = git.Repo(local_url)
+local_url = "/home/netman/netman"
+url = "https://github.com/sash2087/netman.git"
+branch = "new"
 
-    repo.git.add('*')
+repo = git.Repo(local_url)
 
-    repo.index.commit("pushing from VM! Look at this!")
+repo.git.add('*')
 
-    origin = repo.remote(name = "origin")
-    origin.push(branch)
-except:
-    print("error!")
-    
+repo.index.commit("pushing from VM! Look at this!")
+
+origin = repo.remote(name = "origin")
+origin.push(branch)
+
+
 #WIP!!!!
 
 
