@@ -15,7 +15,6 @@ repo.index.commit("pushing from VM! Look at this!")
 origin = repo.remote(name = "origin")
 origin.push(branch)
 
-
 #WIP!!!!
 
 
