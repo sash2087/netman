@@ -1,0 +1,152 @@
+{
+    "R4.R4.local": {
+        "FastEthernet0/0": {
+            "Status": "1",
+            "IPv4": "10.0.0.2"
+        },
+        "FastEthernet1/0": {
+            "Status": "1",
+            "IPv4": "10.0.1.1"
+        },
+        "FastEthernet1/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "GigabitEthernet3/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "Null0": {
+            "Status": "1",
+            "IPv4": "unassigned"
+        }
+    },
+    "R3": {
+        "FastEthernet0/0": {
+            "Status": "1",
+            "IPv4": "10.0.1.9"
+        },
+        "FastEthernet1/0": {
+            "Status": "1",
+            "IPv4": "10.0.2.3"
+        },
+        "FastEthernet1/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "GigabitEthernet3/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "Null0": {
+            "Status": "1",
+            "IPv4": "unassigned"
+        }
+    },
+    "R5.R5.local": {
+        "FastEthernet0/0": {
+            "Status": "1",
+            "IPv4": "10.0.1.5"
+        },
+        "FastEthernet1/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet1/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "GigabitEthernet3/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "Null0": {
+            "Status": "1",
+            "IPv4": "unassigned"
+        }
+    },
+    "R2": {
+        "FastEthernet0/0": {
+            "Status": "1",
+            "IPv4": "10.0.1.10"
+        },
+        "FastEthernet1/0": {
+            "Status": "1",
+            "IPv4": "10.0.2.2"
+        },
+        "FastEthernet1/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "GigabitEthernet3/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "Null0": {
+            "Status": "1",
+            "IPv4": "unassigned"
+        }
+    },
+    "R1": {
+        "FastEthernet0/0": {
+            "Status": "2",
+            "IPv4": "10.0.2.1"
+        },
+        "FastEthernet1/0": {
+            "Status": "1",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet1/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "FastEthernet2/1": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "GigabitEthernet3/0": {
+            "Status": "2",
+            "IPv4": "unassigned"
+        },
+        "Null0": {
+            "Status": "1",
+            "IPv4": "unassigned"
+        }
+    }
+}
