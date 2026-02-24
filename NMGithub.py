@@ -10,7 +10,7 @@ repo.git.add(A=True)
 repo.index.commit("pushing from VM!")
 
 origin = repo.remote(name = "origin")
-origin.push(branch, env = {'GIT_USERNAME' : 'sash2087', 'GIT_PASSWORD': "Ssh2012$"})
+origin.push(branch)
 
 print("Error, no updates!")
 
